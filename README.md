@@ -1,2 +1,3 @@
-# House_price_EDA
-# Used libraries: NumPy,Pandas, Scipy.stats, Matplolibn, Seaborn, Ploltly
+# House_price
+# Used libraries: NumPy,Pandas, Scipy.stats, Matplolib, Seaborn, Ploltly: 
+
